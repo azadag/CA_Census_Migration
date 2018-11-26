@@ -1,0 +1,227 @@
+"","CountyToGroups","Bay Area","Inland Empire","LA/Orange"
+"1","LA/Orange",11389,45582,0
+"2","San Diego CA",3601,10984,-3360
+"3","Cook IL",2195,117,5060
+"4","Dane WI",2049,NA,NA
+"5","District of Columbia DC",1589,12,962
+"6","Broward FL",1218,NA,-890
+"7","Suffolk MA",1198,NA,1796
+"8","Hennepin MN",870,NA,1261
+"9","Kings NY",689,NA,1649
+"10","Tulare CA",651,401,126
+"11","Montgomery MD",615,NA,524
+"12","Lane OR",563,-370,-446
+"13","Colusa CA",558,NA,NA
+"14","Monterey CA",530,-1248,-285
+"15","Utah UT",474,NA,-1600
+"16","Butte CA",295,-178,-223
+"17","Hamilton OH",281,NA,43
+"18","Worcester MA",278,NA,860
+"19","Oakland MI",276,NA,178
+"20","Lake CA",268,NA,8
+"21","Shasta CA",268,NA,-27
+"22","Providence RI",267,NA,-362
+"23","Hudson NJ",235,NA,578
+"24","Napa CA",200,NA,NA
+"25","New York NY",191,48,2215
+"26","Del Norte CA",188,-191,-196
+"27","Honolulu HI",185,-1934,1317
+"28","Douglas NE",146,NA,-5
+"29","Washington OR",119,NA,-872
+"30","Tippecanoe IN",118,NA,NA
+"31","Allegheny PA",115,NA,1100
+"32","St. Louis MO",89,NA,-206
+"33","Putnam NY",87,NA,1049
+"34","Champaign IL",85,NA,-152
+"35","Los Alamos NM",71,NA,NA
+"36","Brazos TX",62,NA,NA
+"37","Albemarle VA",59,NA,-64
+"38","Queens NY",48,237,32
+"39","Pinellas FL",31,NA,-4
+"40","Nassau NY",28,NA,187
+"41","Dallas TX",27,-57,-230
+"42","Onondaga NY",25,NA,472
+"43","Nevada CA",23,NA,2
+"44","Kalamazoo MI",17,NA,NA
+"45","Pierce WA",12,-88,-355
+"46","Hillsborough FL",5,NA,-54
+"47","Mercer NJ",3,NA,NA
+"48","Bay Area",0,750,-11389
+"49","Bingham ID",-9,342,19
+"50","Prince Georges MD",-35,NA,730
+"51","Douglas NV",-38,205,NA
+"52","Shelby TN",-38,NA,-720
+"53","Clark WA",-43,NA,NA
+"54","Kalawao HI",-45,NA,-311
+"55","Monmouth NJ",-45,NA,NA
+"56","Washtenaw MI",-89,NA,735
+"57","Fairfax VA",-100,NA,748
+"58","Salt Lake UT",-108,-3989,798
+"59","Kern CA",-121,1254,-6593
+"60","Humboldt CA",-142,-69,-1067
+"61","Jefferson AL",-148,NA,-24
+"62","Fairfield CT",-152,NA,60
+"63","Fulton GA",-173,NA,936
+"64","New Haven CT",-180,NA,NA
+"65","Berkeley SC",-186,NA,NA
+"66","Williamson TN",-193,NA,NA
+"67","Davidson TN",-206,NA,367
+"68","Baltimore city MD",-222,NA,71
+"69","San Luis Obispo CA",-245,821,-1456
+"70","Deschutes OR",-259,NA,NA
+"71","Suffolk NY",-281,NA,85
+"72","Benzie MI",-284,NA,NA
+"73","King WA",-293,-475,-2603
+"74","Harris TX",-310,-2730,579
+"75","Albany NY",-327,NA,NA
+"76","Philadelphia PA",-328,38,NA
+"77","Yolo CA",-337,130,-1615
+"78","Ventura CA",-344,708,-2775
+"79","Clackamas OR",-346,NA,408
+"80","Berrien MI",-420,NA,NA
+"81","El Dorado CA",-445,NA,-380
+"82","Washoe NV",-510,-149,-426
+"83","Bent CO",-535,-1055,-1755
+"84","Alpine CA",-540,722,419
+"85","Clark NV",-546,-2268,-6824
+"86","Anchorage Borough AK",-573,NA,138
+"87","Snohomish WA",-592,-445,36
+"88","Travis TX",-631,40,-631
+"89","Multnomah OR",-642,NA,-2326
+"90","Madera CA",-693,519,NA
+"91","Merced CA",-734,-38,NA
+"92","Inland Empire",-750,0,-45582
+"93","Stanislaus CA",-1040,-92,374
+"94","Sonoma CA",-1161,-132,132
+"95","Fresno CA",-1402,-709,-1416
+"96","Washington UT",-2209,NA,NA
+"97","Santa Barbara CA",-2698,-2050,-1934
+"98","Placer CA",-3889,158,-3279
+"99","Maricopa AZ",-4047,2157,-9198
+"100","Santa Cruz CA",-4935,NA,-1605
+"101","Sacramento CA",-5247,455,-4529
+"102","Solano CA",-6468,81,-112
+"103","San Joaquin CA",-14354,NA,582
+"104","Ada ID",NA,NA,-478
+"105","Adams WA",NA,NA,-107
+"106","Albany WY",NA,NA,-158
+"107","Allen KS",NA,NA,-79
+"108","Arlington VA",NA,NA,-247
+"109","Atlantic NJ",NA,NA,-114
+"110","Bay FL",NA,NA,66
+"111","Benewah ID",NA,NA,-44
+"112","Benton OR",NA,-35,NA
+"113","Benton WA",NA,-503,NA
+"114","Bergen NJ",NA,NA,-10
+"115","Bernalillo NM",NA,18,2017
+"116","Bexar TX",NA,55,-526
+"117","Bienville Parish LA",NA,NA,-200
+"118","Blount AL",NA,381,NA
+"119","Bronx NY",NA,NA,-93
+"120","Brooke WV",NA,NA,1
+"121","Bucks PA",NA,NA,-102
+"122","Butler MO",NA,NA,167
+"123","Camden GA",NA,NA,-112
+"124","Camden MO",NA,NA,-224
+"125","Cameron TX",NA,NA,247
+"126","Centre PA",NA,NA,-1
+"127","Chattahoochee GA",NA,NA,-126
+"128","Chester PA",NA,NA,-40
+"129","Christian KY",NA,-7,NA
+"130","Christian MO",NA,NA,-416
+"131","Clatsop OR",NA,NA,24
+"132","Coahoma MS",NA,-110,NA
+"133","Cobb GA",NA,NA,-692
+"134","Coconino AZ",NA,263,-1101
+"135","Collier FL",NA,NA,2
+"136","Collin TX",NA,NA,-565
+"137","Comanche OK",NA,2363,0
+"138","Coos OR",NA,NA,40
+"139","Craig OK",NA,NA,-170
+"140","Craven NC",NA,-136,NA
+"141","Cumberland ME",NA,NA,-463
+"142","Cumberland NC",NA,-157,NA
+"143","Cuyahoga OH",NA,15,-215
+"144","Dallas IA",NA,NA,-25
+"145","Denton TX",NA,NA,-1006
+"146","Durham NC",NA,NA,-247
+"147","Duval FL",NA,400,NA
+"148","East Baton Rouge Parish LA",NA,NA,144
+"149","El Paso CO",NA,-484,1509
+"150","El Paso TX",NA,-175,24
+"151","Erie NY",NA,-7,191
+"152","Escambia FL",NA,-125,NA
+"153","Essex NJ",NA,NA,150
+"154","Fairfield SC",NA,NA,-31
+"155","Ferry WA",NA,NA,272
+"156","Flagler FL",NA,NA,-71
+"157","Forsyth NC",NA,NA,71
+"158","Franklin OH",NA,NA,-163
+"159","Geary KS",NA,-288,NA
+"160","Genesee MI",NA,NA,-56
+"161","Gila AZ",NA,-533,NA
+"162","Gwinnett GA",NA,NA,-191
+"163","Harney OR",NA,NA,-341
+"164","Hartford CT",NA,NA,-113
+"165","Howard MD",NA,NA,-201
+"166","Imperial CA",NA,870,364
+"167","Island WA",NA,NA,479
+"168","Jackson MO",NA,-89,NA
+"169","Jackson OR",NA,NA,113
+"170","Jefferson NY",NA,NA,11
+"171","Jefferson Parish LA",NA,NA,-109
+"172","Jones NC",NA,-594,NA
+"173","Kenai Peninsula Borough AK",NA,NA,80
+"174","Kent MI",NA,NA,245
+"175","Kent RI",NA,NA,-115
+"176","Kings CA",NA,225,1624
+"177","Kitsap WA",NA,NA,-2
+"178","La Paz AZ",NA,-1029,-1343
+"179","Lake OH",NA,NA,-429
+"180","Larimer CO",NA,NA,154
+"181","Loudoun VA",NA,NA,-270
+"182","Madison MS",NA,NA,167
+"183","Manatee FL",NA,NA,36
+"184","Marion IN",NA,NA,642
+"185","Marion OR",NA,NA,-252
+"186","McLennan TX",NA,NA,-148
+"187","Mecklenburg NC",NA,NA,588
+"188","Mesa CO",NA,NA,162
+"189","Miami-Dade FL",NA,358,-257
+"190","Middlesex NJ",NA,NA,98
+"191","Milwaukee WI",NA,NA,-442
+"192","Monroe NY",NA,NA,-141
+"193","Montgomery PA",NA,NA,32
+"194","Montgomery TX",NA,NA,-94
+"195","Morris NJ",NA,NA,154
+"196","New London CT",NA,NA,-138
+"197","Newport News city VA",NA,NA,193
+"198","Norfolk city VA",NA,113,NA
+"199","Oconee SC",NA,NA,-10
+"200","Okaloosa FL",NA,-89,NA
+"201","Oklahoma OK",NA,NA,251
+"202","Ontario NY",NA,NA,-34
+"203","Orange FL",NA,NA,-348
+"204","Orange VT",NA,NA,-152
+"205","Orleans Parish LA",NA,NA,425
+"206","Palm Beach FL",NA,-317,-323
+"207","Pickens AL",NA,NA,257
+"208","Pima AZ",NA,-418,617
+"209","Polk FL",NA,NA,-351
+"210","Pulaski AR",NA,969,NA
+"211","Putnam FL",NA,NA,-65
+"212","Richmond city VA",NA,NA,20
+"213","Seminole FL",NA,200,-328
+"214","Spokane WA",NA,-5,-2902
+"215","St. Tammany Parish LA",NA,NA,20
+"216","Sullivan NY",NA,NA,-17
+"217","Tarrant TX",NA,NA,-1353
+"218","Thurston WA",NA,NA,-45
+"219","Tulsa OK",NA,NA,-230
+"220","Union NJ",NA,NA,101
+"221","Wake NC",NA,NA,484
+"222","Washington AR",NA,NA,-239
+"223","Wayne MI",NA,NA,-124
+"224","Williamson TX",NA,NA,-875
+"225","Yavapai AZ",NA,73,-357
+"226","Yuma AZ",NA,NA,-564

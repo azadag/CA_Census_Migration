@@ -1,0 +1,105 @@
+"","CountyToGroups","CountyFromGroups","HH_Out","Per_Out"
+"1","Ada ID","Inland Empire",1408,1391
+"2","Ada ID","LA/Orange",1441,1536
+"3","Alpine CA","Bay Area",1274,1420
+"4","Bay Area","Inland Empire",3910,4125
+"5","Bay Area","LA/Orange",23337,24592
+"6","Bent CO","Bay Area",3856,3907
+"7","Bent CO","Inland Empire",1330,1406
+"8","Bent CO","LA/Orange",5074,5443
+"9","Bexar TX","LA/Orange",1316,1508
+"10","Butte CA","Bay Area",2214,2406
+"11","Clark NV","Bay Area",2878,3236
+"12","Clark NV","Inland Empire",3364,3586
+"13","Clark NV","LA/Orange",14958,16521
+"14","Coconino AZ","LA/Orange",1167,1189
+"15","Collin TX","LA/Orange",1474,1421
+"16","Cook IL","Bay Area",2449,2540
+"17","Cook IL","LA/Orange",2167,2336
+"18","Dallas TX","Bay Area",1617,1690
+"19","Dallas TX","LA/Orange",3045,3254
+"20","Del Norte CA","Bay Area",1013,985
+"21","Denton TX","LA/Orange",1242,1343
+"22","District of Columbia DC","LA/Orange",1170,1214
+"23","El Dorado CA","Bay Area",1733,2024
+"24","Fresno CA","Bay Area",3406,3663
+"25","Fresno CA","Inland Empire",1370,1513
+"26","Fresno CA","LA/Orange",3538,3796
+"27","Gila AZ","LA/Orange",1012,1173
+"28","Harris TX","Bay Area",1742,1892
+"29","Harris TX","LA/Orange",2735,2898
+"30","Honolulu HI","Bay Area",1101,1191
+"31","Honolulu HI","Inland Empire",1308,1297
+"32","Honolulu HI","LA/Orange",2272,2473
+"33","Humboldt CA","LA/Orange",1240,1391
+"34","Inland Empire","Bay Area",3083,3423
+"35","Inland Empire","LA/Orange",77460,84552
+"36","Kern CA","Bay Area",1153,1137
+"37","Kern CA","Inland Empire",3445,3583
+"38","Kern CA","LA/Orange",12001,12435
+"39","King WA","Bay Area",4908,5028
+"40","King WA","LA/Orange",5367,5548
+"41","Kings NY","Bay Area",1606,1623
+"42","Kings NY","LA/Orange",1333,1428
+"43","La Paz AZ","Inland Empire",2052,2238
+"44","La Paz AZ","LA/Orange",1270,1462
+"45","LA/Orange","Bay Area",18583,19798
+"46","LA/Orange","Inland Empire",45566,49053
+"47","Madera CA","LA/Orange",1150,1164
+"48","Maricopa AZ","Bay Area",3748,3925
+"49","Maricopa AZ","Inland Empire",2256,2555
+"50","Maricopa AZ","LA/Orange",10252,10881
+"51","Merced CA","Bay Area",2577,2857
+"52","Merced CA","LA/Orange",1339,1436
+"53","Monterey CA","Bay Area",3381,3759
+"54","Monterey CA","LA/Orange",1574,1664
+"55","Multnomah OR","Bay Area",2324,2518
+"56","Multnomah OR","LA/Orange",2258,2431
+"57","Napa CA","Bay Area",1082,1230
+"58","New York NY","Bay Area",3118,3484
+"59","New York NY","LA/Orange",2988,3355
+"60","Pima AZ","Bay Area",1081,1119
+"61","Pima AZ","Inland Empire",1013,1025
+"62","Pima AZ","LA/Orange",1925,2092
+"63","Placer CA","Bay Area",3294,3615
+"64","Placer CA","LA/Orange",1530,1663
+"65","Sacramento CA","Bay Area",10453,11347
+"66","Sacramento CA","Inland Empire",1690,1887
+"67","Sacramento CA","LA/Orange",4961,5279
+"68","Salt Lake UT","Bay Area",1295,1310
+"69","Salt Lake UT","Inland Empire",1327,1272
+"70","Salt Lake UT","LA/Orange",1570,1681
+"71","San Diego CA","Bay Area",5266,5927
+"72","San Diego CA","Inland Empire",12300,13336
+"73","San Diego CA","LA/Orange",15962,17500
+"74","San Joaquin CA","Bay Area",11627,12497
+"75","San Joaquin CA","LA/Orange",1231,1310
+"76","San Luis Obispo CA","Bay Area",2078,2092
+"77","San Luis Obispo CA","Inland Empire",1258,1176
+"78","San Luis Obispo CA","LA/Orange",3289,3364
+"79","Santa Barbara CA","Bay Area",3609,3725
+"80","Santa Barbara CA","Inland Empire",1631,1527
+"81","Santa Barbara CA","LA/Orange",5277,5376
+"82","Santa Cruz CA","Bay Area",6135,6595
+"83","Santa Cruz CA","LA/Orange",1954,2027
+"84","Solano CA","Bay Area",7725,8363
+"85","Solano CA","LA/Orange",1293,1365
+"86","Sonoma CA","Bay Area",6266,6524
+"87","Sonoma CA","LA/Orange",1366,1477
+"88","Stanislaus CA","Bay Area",5702,5853
+"89","Suffolk MA","Bay Area",1233,1276
+"90","Tarrant TX","LA/Orange",2462,2702
+"91","Travis TX","Bay Area",1231,1288
+"92","Travis TX","LA/Orange",1809,1910
+"93","Tulare CA","LA/Orange",1147,1319
+"94","Tulsa OK","LA/Orange",1052,1089
+"95","Utah UT","Inland Empire",1079,1098
+"96","Utah UT","LA/Orange",1403,1551
+"97","Ventura CA","LA/Orange",10663,11353
+"98","Wake NC","Bay Area",1046,942
+"99","Washington OR","LA/Orange",1542,1688
+"100","Washoe NV","Bay Area",2158,2300
+"101","Worcester MA","Bay Area",2606,2715
+"102","Worcester MA","LA/Orange",1903,2066
+"103","Yolo CA","Bay Area",3461,3764
+"104","Yolo CA","LA/Orange",2150,2336

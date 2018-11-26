@@ -1,0 +1,122 @@
+"","CountyToGroups","CountyFromGroups","HH_Out","Per_Out"
+"1","Ada ID","Inland Empire",3090,2923
+"2","Ada ID","LA/Orange",1977,2102
+"3","Allen IN","LA/Orange",1428,1333
+"4","Alpine CA","Bay Area",2280,2576
+"5","Bay Area","Inland Empire",4291,4417
+"6","Bay Area","LA/Orange",32389,34265
+"7","Bent CO","Bay Area",3386,3732
+"8","Bent CO","Inland Empire",1731,1987
+"9","Bent CO","LA/Orange",6170,6771
+"10","Broward FL","LA/Orange",1122,1126
+"11","Butte CA","Bay Area",2047,2266
+"12","Camden NC","LA/Orange",1015,1308
+"13","Canadian OK","Bay Area",2832,3245
+"14","Chatham GA","LA/Orange",1130,701
+"15","Clark NV","Bay Area",2448,2792
+"16","Clark NV","Inland Empire",4091,4627
+"17","Clark NV","LA/Orange",12415,14183
+"18","Coconino AZ","LA/Orange",1420,1510
+"19","Collin TX","LA/Orange",1844,1886
+"20","Cook IL","Bay Area",3234,3280
+"21","Cook IL","LA/Orange",2389,2561
+"22","Cumberland ME","LA/Orange",1039,1123
+"23","Dallas TX","Bay Area",2791,2924
+"24","Dallas TX","LA/Orange",3124,3310
+"25","Dane WI","Inland Empire",1002,853
+"26","Davis UT","LA/Orange",1440,1768
+"27","Denali Borough AK","Inland Empire",1084,843
+"28","Denton TX","LA/Orange",1402,1428
+"29","Deschutes OR","LA/Orange",3751,3419
+"30","Dimmit TX","LA/Orange",1245,881
+"31","District of Columbia DC","LA/Orange",1479,1614
+"32","Dona Ana NM","Inland Empire",1370,1518
+"33","El Dorado CA","Bay Area",3064,2840
+"34","El Paso CO","LA/Orange",1031,1080
+"35","Fort Bend TX","Inland Empire",1596,1679
+"36","Franklin OH","LA/Orange",1333,1114
+"37","Fresno CA","Bay Area",2321,2369
+"38","Fresno CA","Inland Empire",1389,1424
+"39","Fresno CA","LA/Orange",3191,3564
+"40","Fulton GA","Bay Area",1156,1143
+"41","Gila AZ","Inland Empire",1338,1462
+"42","Hamilton OH","Bay Area",1197,1149
+"43","Harris TX","Bay Area",3023,3289
+"44","Harris TX","Inland Empire",2911,1859
+"45","Harris TX","LA/Orange",2068,2373
+"46","Honolulu HI","Inland Empire",2107,2152
+"47","Honolulu HI","LA/Orange",2241,2740
+"48","Houston GA","LA/Orange",1179,1014
+"49","Humboldt CA","LA/Orange",1714,1690
+"50","Inland Empire","Bay Area",5144,5809
+"51","Inland Empire","LA/Orange",86413,92227
+"52","Kalawao HI","Bay Area",1182,1147
+"53","Kern CA","Bay Area",1795,1998
+"54","Kern CA","Inland Empire",2781,2774
+"55","Kern CA","LA/Orange",11697,11343
+"56","King WA","Bay Area",5435,5571
+"57","King WA","Inland Empire",1336,1537
+"58","King WA","LA/Orange",6758,7402
+"59","Kings NY","Bay Area",1594,1603
+"60","La Paz AZ","Inland Empire",2779,2888
+"61","La Paz AZ","LA/Orange",1998,2321
+"62","LA/Orange","Bay Area",21000,21491
+"63","LA/Orange","Inland Empire",40831,44068
+"64","Lake MT","Inland Empire",1153,1828
+"65","Lane OR","Bay Area",1009,1087
+"66","Madera CA","Bay Area",1203,1816
+"67","Madera CA","LA/Orange",1236,1326
+"68","Maricopa AZ","Bay Area",6668,6651
+"69","Maricopa AZ","Inland Empire",1384,1418
+"70","Maricopa AZ","LA/Orange",13479,14571
+"71","Merced CA","Bay Area",1826,2334
+"72","Merced CA","LA/Orange",1681,1789
+"73","Monterey CA","Bay Area",1847,1970
+"74","Monterey CA","Inland Empire",1539,1782
+"75","Monterey CA","LA/Orange",1058,1231
+"76","Multnomah OR","Bay Area",3550,3743
+"77","Multnomah OR","LA/Orange",3252,3297
+"78","New York NY","Bay Area",2929,3017
+"79","New York NY","LA/Orange",1571,1864
+"80","Pierce WA","LA/Orange",1132,1111
+"81","Placer CA","Bay Area",6125,6676
+"82","Placer CA","LA/Orange",4064,4532
+"83","Sacramento CA","Bay Area",10857,12176
+"84","Sacramento CA","LA/Orange",6001,5932
+"85","Salt Lake UT","Bay Area",1970,2024
+"86","Salt Lake UT","Inland Empire",4254,5406
+"87","San Diego CA","Bay Area",5794,6654
+"88","San Diego CA","Inland Empire",9428,10247
+"89","San Diego CA","LA/Orange",17424,18359
+"90","San Joaquin CA","Bay Area",17912,19225
+"91","San Luis Obispo CA","Bay Area",1936,1869
+"92","San Luis Obispo CA","LA/Orange",3172,3639
+"93","Santa Barbara CA","Bay Area",4539,4884
+"94","Santa Barbara CA","Inland Empire",2262,2097
+"95","Santa Barbara CA","LA/Orange",5183,5310
+"96","Santa Cruz CA","Bay Area",9098,9713
+"97","Santa Cruz CA","LA/Orange",2678,2620
+"98","Seminole FL","LA/Orange",1538,1967
+"99","Solano CA","Bay Area",10206,11589
+"100","Sonoma CA","Bay Area",7288,8211
+"101","Spokane WA","LA/Orange",3085,3338
+"102","Stanislaus CA","Bay Area",3891,3983
+"103","Tarrant TX","LA/Orange",3404,3871
+"104","Travis TX","Bay Area",1592,1684
+"105","Travis TX","LA/Orange",1333,1667
+"106","Tulsa OK","LA/Orange",1376,1445
+"107","Utah UT","LA/Orange",1884,2147
+"108","Ventura CA","Bay Area",1803,1947
+"109","Ventura CA","LA/Orange",11516,13243
+"110","Wake NC","Bay Area",1125,1018
+"111","Washington OR","LA/Orange",1283,1438
+"112","Washington UT","Bay Area",2435,2050
+"113","Washoe NV","Bay Area",1830,1957
+"114","Washtenaw MI","LA/Orange",1079,1361
+"115","Williamson TX","LA/Orange",1421,1621
+"116","Worcester MA","Bay Area",2660,2801
+"117","Worcester MA","LA/Orange",1038,1154
+"118","Yavapai AZ","LA/Orange",1012,971
+"119","Yolo CA","Bay Area",2420,2788
+"120","Yolo CA","LA/Orange",1940,2747
+"121","Yuma AZ","Inland Empire",1197,944
