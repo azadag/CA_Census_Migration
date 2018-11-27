@@ -51,7 +51,10 @@ These charts still get busy, animated charts could help simplify some of that.
 
 <img src="\charts_out\_pdf_core_out.png">
 
+
 <img src="\charts_out\Periphery-100.jpg">
+
+### Periphery To Out of State
 
 <img src="\charts_out\Core-100.jpg">
 
